@@ -1,0 +1,6 @@
+{
+  "name": "Q-Fin Pro",
+  "description": "Hybrid Quantum-Classical Portfolio Optimization & Risk Analytics",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
